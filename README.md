@@ -26,6 +26,8 @@ Se liga nessa lista de tudo que usamos nesse projeto:
 
 E muito mais!
 
+![p5collide2d](p5collide2d.png)
+
 ## 🛠️ Abrir e rodar o projeto
 
 Para abrir e rodar o projeto, instale a extensão Live Server no VS Code e clicar com o botão direito do mouse na `index.html` para inicar o projeto com o Open Live Server.

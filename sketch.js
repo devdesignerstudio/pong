@@ -11,7 +11,7 @@ let velocidadeYBolinha = 3;
 //variáveis da raquete
 let xRaquete = 5;
 let yRaquete = 150;
-let alturaRaquete = 90;
+let alturaRaquete = 45;
 let comprimentoRaquete = 10;
 
 //variáveis da raquete adversário
