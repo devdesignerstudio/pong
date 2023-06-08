@@ -9,7 +9,8 @@ Abra o arquivo index.html usando a extensão Open Live Server !
 
 # Pong
 
-O Pong é um Game que simula o jogo original lançado pela Atari de Ping Pong na década de 70.
+O Pong é um Game que simula o jogo original lançado pela Atari de <a href="https://www.youtube.com/watch?v=fiShX2pTz9A">PingPong</a> na década de 70.
+
 
 <img src="screencapture.png" alt="Imagem do Pong" width="50%">
 
